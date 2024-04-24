@@ -1,0 +1,12 @@
+.simples{
+    background-color: #f5f5f5;
+}
+.destacado{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #f5ac20;
+    
+}
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
